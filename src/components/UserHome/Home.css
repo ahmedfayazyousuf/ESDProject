@@ -1,0 +1,36 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: 0.6;
+}
+html{
+    height: 100%;
+}
+.welcome {
+    color: red;
+}
+
+.formitems {
+    display: flex;
+    width: 50%;
+    height: 50%;
+    background-color: white;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+/* button{
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    height: 100px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+} */
+
+.LocationButtons{
+    width: 200%;
+    margin: 10px;
+    height: 10vh;
+}
